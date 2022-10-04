@@ -6,6 +6,7 @@ CONSISTIA EM :
 - Cada exerciuc devera estar em um repositorio;
 - O enunciado do exercicio devera estar no Read.ME de cada projeto.
 
+RESOLUÇAO 
 
--https://github.com/AndreviniciusSS/Atividade-1.git - EXERCICIO 1
--https://github.com/AndreviniciusSS/atividade2.git - EXERCICIO 2
+- https://github.com/AndreviniciusSS/Atividade-1.git - EXERCICIO 1
+- https://github.com/AndreviniciusSS/atividade2.git - EXERCICIO 2
