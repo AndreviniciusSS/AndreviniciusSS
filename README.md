@@ -5,3 +5,6 @@ CONSISTIA EM :
 - Versinar cada exercicio em seu GitHub;
 - Cada exerciuc devera estar em um repositorio;
 - O enunciado do exercicio devera estar no Read.ME de cada projeto.
+
+
+-https://github.com/AndreviniciusSS/Atividade-1.git - EXERCICIO 1
