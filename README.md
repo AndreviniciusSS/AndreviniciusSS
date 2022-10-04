@@ -12,4 +12,5 @@ RESOLUÇAO
 - https://github.com/AndreviniciusSS/atividade2.git - EXERCICIO 2
 - https://github.com/AndreviniciusSS/atividade3.git - EXERCICIO 3
 - https://github.com/AndreviniciusSS/atividade4.git - EXERCICIO 4
-- 
+- https://github.com/AndreviniciusSS/atividade5.git - EXERCICIO 5
+- - EXERCICIO 6
